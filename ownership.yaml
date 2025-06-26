@@ -1,8 +1,8 @@
 ---
 version: 1
-ownership:
-  - team: github/docs
-    repo: https://github.com/github/docs-internal
+ownership:ZIAM-ZIAM CYBER TECH JUBA SOUTH SUDAN
+  - team: github/OscaeGTX/docs
+    repo: https://github.com/github/OscaeGTX/docs-internal
     name: docs-internal
     kind: moda
     long_name: Docs on Moda
